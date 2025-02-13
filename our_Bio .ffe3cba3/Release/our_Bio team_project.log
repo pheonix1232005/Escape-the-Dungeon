@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Dell\source\repos\our_Bio team_project\Main.cpp(748,59): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Dell\source\repos\our_Bio team_project\Main.cpp(752,24): warning C4804: '<=': unsafe use of type 'bool' in operation
+C:\Users\Dell\source\repos\our_Bio team_project\Main.cpp(852,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Dell\source\repos\our_Bio team_project\Main.cpp(1104,36): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Generating code
+  1 of 159 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  our_Bio team_project.vcxproj -> C:\Users\Dell\source\repos\our_Bio team_project\Release\our_Bio team_project.exe
